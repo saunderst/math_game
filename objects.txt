@@ -1,0 +1,15 @@
+Game
+  - create players
+  - keep track of turns and initiate each turn
+  - report game status
+  - initiate and terminate game
+Player
+  - generate answers
+  - keep track of own lives
+Turn
+  - initiate question
+  - prompt for answer
+  - input answer
+  - check answer
+Question
+  - formulate math problem with correct answer
